@@ -1,0 +1,80 @@
+body{
+    background-image: url("../assets/img/winegar.jpg");
+    background-size: 100% auto;
+    background-attachment: fixed;
+    color: aliceblue;
+    font-family: 'Comic Sans MS' Georgia, 'Times New Roman', Times, serif;
+}
+.tower{
+    color:azure;
+}
+.centerme{
+    display: block;
+    margin: auto;
+}
+img{
+    width: 200px;
+    padding: 5px;
+    border: 3px solid azure;
+    width: 100%;
+    display: inline;
+    margin-left: 58%;
+    margin-top: 800px;
+}
+ol{
+    font-size: large;
+}
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.common{
+    position: absolute;
+}
+.footer{
+    z-index: 1;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    display: block;
+    text-align: center;
+    background-color: azure;
+    color: azure;
+}
+.header{
+    top: 5px;
+}
+.mainbody{
+    top: 1250px;
+}
+.pic{
+    width: 45%;
+    height: auto;
+}
+.wat{
+    color: azure;
+}
+.huge{
+    color: azure;
+    font-size: 500%;
+    position: absolute;
+    top: 200px;
+}
+.giant{
+    color: azure;
+    font-size: 500%;
+    position: absolute;
+    top: 430px;
+    margin-left: 7%;
+}
+.chart{
+    width: 80%;
+}
+.righty{
+    text-align: center;
+    top: 1000px;
+}
+h2{
+    color: azure;
+}

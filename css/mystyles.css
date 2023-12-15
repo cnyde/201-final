@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(251, 228, 199);
+}
+h1{
+    color:  #bd5d38;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    color:  #bd5d38;
+}
+h3{
+    color: #5a2d1b;
+}
+.darkcolor{
+    background-color: #5a2d1b !important;
+}
+.footer{
+    z-index: 10000;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    display: block;
+    text-align: center;
+    background-color: azure;
+}
